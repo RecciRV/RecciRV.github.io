@@ -50,6 +50,7 @@ color: white;
     display: flex;
     align-items: center;
     position: fixed;
+    background-color: white;
 
 }
 .nav__title{
